@@ -1,0 +1,3 @@
+
+city = "bangalore"
+print(city)
