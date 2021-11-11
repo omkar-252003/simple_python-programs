@@ -40,8 +40,7 @@ print(a)
 
 
 a = ['x' , 'y' ,'z']
-del a[2
-]
+del a[2]
 print(a)
 
 
